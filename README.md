@@ -17,5 +17,5 @@
 * **Missing Data:**
 ![](images/titanic_NaN.png)
 only missing values at three columns (age (177), cabine(687) and embarked (2))
-* **Surviving rate between men and women
+* **Surviving rate between men and women**
 ![](images/titanic_female_male)
